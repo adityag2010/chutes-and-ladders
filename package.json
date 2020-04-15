@@ -1,0 +1,19 @@
+{
+  "name": "chutes-and-ladders",
+  "version": "1.0.0",
+  "description": "Chutes and Ladders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityag2010/chutes-and-ladders.git"
+  },
+  "author": "Aditya Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityag2010/chutes-and-ladders/issues"
+  },
+  "homepage": "https://github.com/adityag2010/chutes-and-ladders#readme"
+}
